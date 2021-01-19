@@ -8,10 +8,14 @@ Students will build applied programming skills using case studies for web and mo
 (using web services for recognition and analysis of image, speech, sensor, social network trends,
 etc.).
 
-• Part 1 (Week 1 - 8): Programming for Web App for Web application using
+• Part 1 (Week 1 - 8): 
+
+Programming for Web App for Web application using
 HTML/CSS/JavaScript & MEAN Stack (MongoDB, Express.js, Angular, and Node.js).
 
-• Part 2 (Week 9 - 16): Programming for Mobile App (Android OS) to learn the foundations of
+• Part 2 (Week 9 - 16): 
+
+Programming for Mobile App (Android OS) to learn the foundations of
 mobile platforms and techniques. Understand how to build a mobile application using
 knowledge APIs (speech recognition, object recognition, GPS/map, movement recognition,
 etc.), and learn how to lead successful mobile application projects. Mobile applications will
