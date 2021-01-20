@@ -28,7 +28,7 @@ Instructor Name: Vijaya Yeruva
 
 Wiki Links for Web ICPs
 
-ICP1: https://github.com/VIJAYAYERUVA/WebMobile-2021Spring/wiki/Web_ICP1
+ICP1: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Web_ICP_01
 
 
 
