@@ -1,0 +1,43 @@
+.row {
+    display: flex;
+    justify-content: center;
+}
+.col {
+    margin: 5px;
+    color: white;
+    height:70px;
+    width:70px;
+}
+#box1 {
+    background-color: red;
+}
+#box2 {
+    background-color: black;
+}
+
+#box3 {
+    background-color: blue;
+}
+
+#box4 {
+    background-color: purple;
+}
+#box5 {
+    background-color: cyan;
+}
+
+#box6 {
+    background-color: green;
+}
+
+#box7 {
+    background-color: magenta;
+}
+
+#box8 {
+    background-color: seagreen;
+}
+
+#box9 {
+    background-color: khaki;
+}
