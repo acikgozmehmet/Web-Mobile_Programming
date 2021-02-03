@@ -1,0 +1,63 @@
+body {
+    background-color: white;
+    align-items: center;
+    align-content: center ;
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+.container-fluid {
+    padding: 3% 5%;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    color: green;
+}
+
+#message {
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+h2 {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 3rem;
+    color: #bcbbbb;
+}
+
+#user {
+    margin-top: 12%;
+    font-weight: bold;
+    color: blue;
+}
+#computer {
+    margin-top: 12%;
+    font-weight: bold;
+    color: red;
+}
+
+/*
+
+@media (max-width: @screen-xs) {
+    body {font-size: 10px;}
+    h2 {font-size: 12px;}
+}
+
+@media (max-width: @screen-sm) {
+    body {font-size: 14px;}
+    h2 {font-size: 16px;}
+}
+
+h5{
+    font-size: 1.4rem;
+}
+
+*/
