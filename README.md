@@ -29,6 +29,9 @@ Instructor Name: Vijaya Yeruva
 Wiki Links for Web ICPs
 
 ICP1: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Web_ICP_01
+ICP2: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Web_ICP_02-Introduction-to-HTML-and-CSS
+ICP3: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Web_ICP_03-Bootstrap,-Javascript
+
 
 
 
