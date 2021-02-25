@@ -1,0 +1,11 @@
+.background {
+  background:#000000;
+  color: white;
+}
+
+li a {
+  color: whitesmoke;
+  font-weight: bold;
+}
+
+ul.nav a:hover { color: red  }
