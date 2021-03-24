@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PizzaOrder</string>
+    <string-array name="pizzaSize">
+        <item>Small</item>
+        <item>Regular</item>
+        <item>Large</item>
+        <item>X-Large</item>
+    </string-array>
+
+    <string name="too_many_pizza">Please select fewer than ten pizzas</string>
+    <string name="too_few_pizza">Please select at least one pizza</string>
+
+</resources>
