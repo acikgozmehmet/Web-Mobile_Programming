@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866720398575",
+    "project_id": "myfirebaseproject-760dc",
+    "storage_bucket": "myfirebaseproject-760dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866720398575:android:715e48d80baf817d702f1a",
+        "android_client_info": {
+          "package_name": "com.vijaya.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866720398575-inomoranb33r22jvp6js37ftqi0engjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeysoT1Deuor61YriRBkWWcWUwpcksjLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866720398575-inomoranb33r22jvp6js37ftqi0engjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
