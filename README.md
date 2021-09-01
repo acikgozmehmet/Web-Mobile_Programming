@@ -40,7 +40,7 @@ ICP5: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Web_ICP_05-An
 
 ICP6: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Web_ICP_06-(REST-APIs-with-Angular)
 
-ICP: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Web_ICP_07-(MEAN-Stack)
+ICP&: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Web_ICP_07-(MEAN-Stack)
 
 Wiki Links for Mobile ICPs
 
