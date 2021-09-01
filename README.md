@@ -34,14 +34,26 @@ ICP2: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Web_ICP_02-In
 
 ICP3: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Web_ICP_03-Bootstrap,-Javascript
 
+ICP4: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Web_ICP_04-JavaScript,-jQuery
 
+ICP5: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Web_ICP_05-Angular
 
+ICP6: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Web_ICP_06-(REST-APIs-with-Angular)
 
+ICP: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Web_ICP_07-(MEAN-Stack)
 
 Wiki Links for Mobile ICPs
 
-ICP8: 
+ICP8: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Mobile_ICP_08:--Android-Studio
 
-ICP9: 
+ICP9: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Mobile_ICP_09:--Developing-food-ordering-applications-for-Android
 
-Wiki Link for Project: 
+ICP10: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Mobile_ICP_10:--Earthquake-Information-App
+
+ICP11: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Mobile_ICP_11:--Accessing-the-hardware-components-of-the-Android-system
+
+ICP12: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Mobile_ICP_12:--SQLite-and-Firebase
+
+ICP13: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Mobile_ICP_13:--Speech-to-Text-and-Text-to-Speech
+
+ICP14: https://github.com/acikgozmehmet/Web-Mobile_Programming/wiki/Mobile_ICP_14:-Notification,-Calendar,-and-Publishing-Apps
